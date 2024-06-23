@@ -28,7 +28,7 @@ const Home = () => {
       ) : null}
 
 <section className="about-us">
-        <h2>About Us</h2>
+        <h2 className="h2">About Us</h2>
         <p>
           Welcome to Shree Cakes! We are passionate about creating delightful cakes that celebrate life's special moments.
           Our journey began in [year], and since then, we've been crafting sweet memories for our wonderful customers.
@@ -37,28 +37,28 @@ const Home = () => {
 
       </section>
       <section className="meet-the-team">
-        <h2>OUR TEAM</h2>
+        <h2 className="h2">OUR TEAM</h2>
         <p>Behind every delectable cake is a team of passionate bakers, decorators, and artists. We take pride in our craftsmanship and attention to detail. Get to know the faces behind the magic!</p>
       </section>
 
       <section className="specialty-cakes">
-        <h2>Our Specialty Cakes</h2>
+        <h2 className="h2">Our Specialty Cakes</h2>
         <p>Discover Our Signature Creations: Explore our specialty cakes—each a masterpiece of flavor and design on our given accounts (Instagram, Facebook etc.). Whether it’s a whimsical unicorn cake or an elegant tiered wedding cake, we create edible works of art.</p>
       </section>
 
       <section className="customization">
-        <h2>Customize Your Cake</h2>
+        <h2 className="h2">Customize Your Cake</h2>
         <p>Your Dream Cake, Your Way: At Shree Cakes, customization is key. Choose your flavors, colors, and decorations. Want a cake shaped like a favorite book? We’ll make it happen!</p>
       </section>
 
       <section className="delivery-info">
-        <h2>Delivery & Pickup</h2>
+        <h2 className="h2">Delivery & Pickup</h2>
         <p>Free Delivery and Fast Delivery.Delivering Happiness: We deliver across [delivery areas]. Our friendly team ensures your cake arrives fresh and on time. Prefer pickup? Swing by our bakery during business hours.</p>
       </section>
 
       <section className="seasonal-specials">
-        <h2>Seasonal Treats</h2>
-        <p>Taste the Seasons: From heart-shaped Valentine’s Day treats to spooky Halloween cupcakes, our seasonal specials celebrate every occasion. Check back often for limited-time delights.Remember, our seasonal specials are available for a limited time, so mark your calendar and indulge in these delightful creations. 🎂✨<br/><br/><b>Valentine’s Day Delights : </b>
+        <h2 className="h2">Seasonal Treats</h2>
+        <p className="p">Taste the Seasons: From heart-shaped Valentine’s Day treats to spooky Halloween cupcakes, our seasonal specials celebrate every occasion. Check back often for limited-time delights.Remember, our seasonal specials are available for a limited time, so mark your calendar and indulge in these delightful creations. 🎂✨<br/><br/><b>Valentine’s Day Delights : </b>
             <br/>Heart-Shaped Bliss: Our heart-shaped cakes and cupcakes are the perfect way to say “I love you.” From rich red velvet to luscious strawberry, these treats are adorned with edible flowers and sweet messages.
             <br/>Chocolate Dipped Strawberries: Juicy strawberries dipped in velvety chocolate—pure romance in every bite.
             <br/>Cupid’s Cupcakes: Fluffy vanilla cupcakes topped with swirls of pink buttercream and edible glitter. Guaranteed to make hearts flutter!
