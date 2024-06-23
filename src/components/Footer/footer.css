@@ -1,0 +1,22 @@
+footer {
+    background-color:rgb(56, 50, 50);
+    padding: 10px;
+    margin: 10px 0px;
+    text-align: center;
+  }
+li{
+    list-style: none;
+    display: block;
+    margin-right: 20px;
+    line-height: 30px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: rgb(244, 127, 220);
+}
+.head{
+    color: rgb(244, 43, 76);
+}
