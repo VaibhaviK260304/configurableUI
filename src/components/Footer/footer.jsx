@@ -32,8 +32,8 @@ const Footer = ({ links }) => {
                     </address>
                 <p className='head'>CONTACT US</p>
                     <ul>
-                        <li className='f-text'>Phone: +1 (123) 456-7890</li>
-                        <li className='f-text'>Email: info@shree-cakes.com</li>
+                        <li className='f-text'>Phone: <a href="tel:+11234567890">+1(123)456-7890</a></li>
+                        <li className='f-text'>Email: <a href="mailto:deliciouscakes@shree-cakes.com">deliciouscakes@shree-cakes.com</a></li>
                     </ul>
             </div>
         </footer>
